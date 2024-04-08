@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901915507840",
+    "project_id": "projectprm-f734f",
+    "storage_bucket": "projectprm-f734f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901915507840:android:8bde4ea8103dc11865fa65",
+        "android_client_info": {
+          "package_name": "com.example.projectprm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpfL5hCrO7-_kjEWfuQZZlUvkAiffXTqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
